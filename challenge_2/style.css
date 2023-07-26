@@ -7,15 +7,17 @@ h1 {
     background-color: rgba(255, 255, 255, 0.5);
     font-size: 300%;
     padding: 20px;
+    
 }
 
 img {
     border: 5px solid #FFCB05;
     padding: 10px;
+    
 }
 
 ul {
-    list-style-image: url('images/pikachu.png');
+    list-style-image: url("images/pikachu.png");
 }
 
 .the_divs {
@@ -30,6 +32,7 @@ ul {
     background-color: rgba(255, 255, 255, 0.5);
     font-size: 150%;
     padding: 20px;
+    
 }
 
 #three {
@@ -41,7 +44,8 @@ ul {
     color: #FFCB05;
 }
 
-#raichu, #ash, #team_rocket {
+/* raichu, #ash, #team_rocket */
+.pokemonImg {
     height: 75px;
     border: none;
     padding-bottom: 0px;

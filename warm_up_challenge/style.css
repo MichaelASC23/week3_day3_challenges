@@ -1,17 +1,19 @@
 /* Figure out 5 or more DIFFERENT ways to fill in the blank 
    to produce the desired output */
 
-_________ {
+.pika {
     font-family: Helvetica;
     font-size: 300%;
     color: #ffd63e;
+    border: 5px solid black;
     text-align: center;
+    justify-content: center;
 }
 
 /* Record your solutions here:
-   #1 -
-   #2 - 
-   #3 - 
+   #1 - create div function
+   #2 - use justify content
+   #3 - add borders with 5px solid black
    #4 -
    #5 -
 

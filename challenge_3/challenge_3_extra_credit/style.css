@@ -11,4 +11,34 @@ img {
 	margin: auto;
 	border: 5px solid black;
 	width: 516px;
+	display: flex;
+
+}
+
+#a {
+	display: flex;
+	flex-direction: column;
+}
+/* id b, child of div c and div d */
+#b {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+#c {
+	display: flex; 
+	align-items: flex-start;
+}
+
+#d {
+	display: flex;	
+	align-items: flex-end;
+	flex-direction: row;
+
+}
+
+#e {
+	display: flex;
+	flex-direction: column;
 }
